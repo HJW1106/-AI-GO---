@@ -39,4 +39,4 @@ c. 百貨公司位置：[商工行政資料開放平臺](https://data.gcis.nat.g
 # 模型 - XGBoost
 本競賽資料筆數不多且只有單一變數輸出，使用深度學習方法並不一定能達到更好的效果，可能有Overfitting狀況出現，XGBoost為Kaggle機器學習競賽中獲獎作品最常出現的模型算法，結合常見於機器學習方法中Boosting及Bagging，且其提供"fine tuning"功能，節省更多調參時間更有效率。
 
-"'SINOPAC_HousePrice_XGB-finalcode'" directory
+`SINOPAC_HousePrice_XGB-finalcode` directory
