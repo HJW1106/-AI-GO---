@@ -7,4 +7,10 @@
 
 [競賽官網](https://tbrain.trendmicro.com.tw/Competitions/Details/30)
 # 簡介
-除
+## 除官方提供資料及外，可使用所有可取得知開放資源，額外資料集使用如下
+
+a. 房屋仲介營業登記地
+
+b. 科學園區位置
+
+c. 百貨公司位置
